@@ -1,0 +1,144 @@
+# Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
+# and drop a star while you're at it. ;)
+baseurl = "https://okoyomon.com/"
+title = "Ehimare Okoyomon"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+#disqusShortname = "" # Enable comments by entering your Disqus shortname
+#googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+#-------------------------------------------------------------------------------
+# DEFAULT SETTINGS
+#-------------------------------------------------------------------------------
+
+# Default Theme
+theme= "gruvhugo"
+
+# Default Post Extension
+defaultExtension= "html"
+
+# Default metadata format for newly created frontmatter using
+# hugo new command. "toml", "yaml", or "json"
+metaDataFormat= "yaml"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[params.main]
+  enabled = true
+  enableKatex = true
+  metaKeywords = "fast, hugo, theme, minimal, gruvbox"
+  headerTitle = "Ehimare Okoyomon"
+  copyright = "© 2024 Ehimare Okoyomon.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
+  name = "jane_doe"
+  img = "images/headshot.jpg"
+  img_title = "Professional headshot of Ehimare Okoyomon."
+  icon = "images/thumbnail.jpg"
+  quote = "Researcher | Software Engineer"
+  description= "Hello! My name is Ehimare and I am a PhD student at the <a href=\"https://www.epe.ed.tum.de/emt/startseite/\">Professorship of Energy Management Technologies</a> at the Technical University of Munich. My research currently revolves around the development of: <br><br>(a) Data-driven methods for power grid analysis and control <br>(b) Scalable, decentralized energy systems and their applications <br><br>The goal of my research is to convert theory to practice while exploring this exciting intersection of Power Engineering and Computer Science. Ultimately, I aspire to help accelerate the path to high-quality energy systems that support the clean energy revolution."
+  licenseUrl = ""
+
+ # Social icons
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/ehimare-okoyomon-29a2a6b1/"
+
+  [[params.social]]
+    name = "scholar"
+    url  = "https://scholar.google.com/citations?user=ODin7yoAAAAJ"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:e.okoyomon@tum.de"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/ehimareokoyomon"
+
+[params.style]
+  # add path to custom CSS files here
+  custom_css = []
+  # add path to custom SCSS files here
+  custom_scss = []
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/"
+    weight     = 1
+
+  [[menu.main]]
+    identifier = "experience"
+    name       = "Experience"
+    url        = "experience"
+    weight     = 3
+
+  [[menu.main]]
+    identifier = "publications"
+    name       = "Publications"
+    url        = "publications"
+    weight     = 4
+
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.asciidocExt]
+    backend = "html5"
+    docType = "article"
+    extensions = []
+    failureLevel = "fatal"
+    noHeaderOrFooter = true
+    safeMode = "unsafe"
+    sectionNumbers = false
+    trace = false
+    verbose = true
+    workingFolderCurrent = false
+    [markup.asciidocExt.attributes]
+  [markup.blackFriday]
+    angledQuotes = false
+    footnoteAnchorPrefix = ""
+    footnoteReturnLinkContents = ""
+    fractions = true
+    hrefTargetBlank = false
+    latexDashes = true
+    nofollowLinks = false
+    noreferrerLinks = false
+    plainIDAnchors = true
+    skipHTML = false
+    smartDashes = true
+    smartypants = true
+    smartypantsQuotesNBSP = false
+    taskLists = true
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2

@@ -1,0 +1,21 @@
+<div class="experience">
+  <div class="experience-orga-div">
+    <img class="image" src='{{ .Get "img" | absURL }}' 
+    title="{{ .Get "organization" }}" 
+    alt="{{ .Get "organization" }}"/>
+    <h2 class="experience-orga">
+      {{ .Get "organization" }}
+    </h2>
+  </div>
+  <h3 class="experience-title">
+    {{ .Get "title" }}
+  </h3>
+  <h4 class="experience-timeline">
+    {{ .Get "timeline" }}
+  </h4>
+  <ul>
+    {{ range (split (.Get "notes") ". ") }}
+      <li>{{ . | safeHTML }}</li>
+    {{ end }}
+  </ul>
+</div>
