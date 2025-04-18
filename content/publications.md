@@ -4,6 +4,12 @@ draft = false
 title = 'Publications'
 +++
 
+# 2025
+
+**E. Okoyomon** and C. Goebel, “[A Framework for Assessing the Generalizability of GNN-Based
+AC Power Flow Models](/files/gnn-generalizability-preprint.pdf),” Preprint, 2025.
+
+
 # 2024
 
 **E. Okoyomon** and C. Goebel, “[EnergyOS: Designing a Multi-Application EMS Platform](https://doi.org/10.1145/3632775.3661961),” in Proceedings of the 15th ACM International Conference on Future and Sustainable Energy Systems, in e-Energy ’24. New York, NY, USA: Association for Computing Machinery, May 2024, pp. 237–255.
@@ -14,7 +20,6 @@ code
 presentation
 {{< /publink >}}
 
-<!-- <div class="pub-link"><a href="https://gitlab.lrz.de/energy-management-technologies-public/energy-os-core">code</a></div> -->
 
 # 2019
 
