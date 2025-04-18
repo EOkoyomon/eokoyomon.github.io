@@ -57,7 +57,7 @@ Deployment is handled automatically by GitHub Actions. You can find the deployme
 
 ## 🤖 Controlling Indexing (robots.txt)
 
-1. Create or edit static/robots.txt:
+1. Create or edit `static/robots.txt`:
 
     ```bash
     User-agent: *
