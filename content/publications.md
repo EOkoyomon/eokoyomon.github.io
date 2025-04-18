@@ -7,7 +7,7 @@ title = 'Publications'
 # 2025
 
 **E. Okoyomon** and C. Goebel, “[A Framework for Assessing the Generalizability of GNN-Based
-AC Power Flow Models](/files/gnn-generalizability-preprint.pdf),” Preprint, 2025.
+AC Power Flow Models](/files/gnn-generalizability-preprint.pdf),” *in Review*, Preprint, 2025.
 
 
 # 2024
