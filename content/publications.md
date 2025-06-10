@@ -6,9 +6,17 @@ title = 'Publications'
 
 # 2025
 
-**E. Okoyomon** and C. Goebel, “A Framework for Assessing the Generalizability of GNN-Based AC Power Flow Models,” Accepted in *Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems*, in e-Energy ’25.
+T. Singh and **E. Okoyomon**, “A Lightweight and Modular Simulation Framework for Prototyping and Evaluating Electricity Trading Strategies Under Different Market-Clearing Mechanisms,” Accepted in *The 14th DACH+ Conference on Energy Informatics*. Sept 2025.
+
+**E. Okoyomon** and C. Goebel, “A Framework for Assessing the Generalizability of GNN-Based AC Power Flow Models,” Accepted in *Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems*, in e-Energy ’25. June 2025.
 {{< publink href="/files/gnn-generalizability-preprint.pdf" >}}
 preprint
+{{< /publink >}}
+{{< publink href="https://gitlab.lrz.de/energy-management-technologies-public/engage" >}}
+code
+{{< /publink >}}
+{{< publink href="https://zenodo.org/records/15464235" >}}
+data
 {{< /publink >}}
 
 # 2024
