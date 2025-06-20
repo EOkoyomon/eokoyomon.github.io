@@ -6,9 +6,11 @@ title = 'Publications'
 
 # 2025
 
+S. Eichhorn, A. Mohapatra, and **E. Okoyomon**, “PHIL Validation of Physics-Informed Symbolic Regression for Power System Voltage Prediction,” Accepted in *IEEE PES ISGT Europe 2025*. October 2025.
+
 T. Singh and **E. Okoyomon**, “A Lightweight and Modular Simulation Framework for Prototyping and Evaluating Electricity Trading Strategies Under Different Market-Clearing Mechanisms,” Accepted in *The 14th DACH+ Conference on Energy Informatics*. Sept 2025.
 
-**E. Okoyomon** and C. Goebel, “[A Framework for Assessing the Generalizability of GNN-Based AC Power Flow Models](https://doi.org/10.1145/3679240.3734610),” Accepted in *Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems*, in e-Energy ’25. June 2025.
+**E. Okoyomon** and C. Goebel, “[A Framework for Assessing the Generalizability of GNN-Based AC Power Flow Models](https://doi.org/10.1145/3679240.3734610),” in *Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems*, in E-Energy ’25. New York, NY, USA: Association for Computing Machinery, Jun. 2025, pp. 476–488.
 {{< publink href="https://gitlab.lrz.de/energy-management-technologies-public/engage" >}}
 code
 {{< /publink >}}
