@@ -6,6 +6,11 @@ title = 'Publications'
 
 # 2025
 
+S. Z. Abbas and **E. Okoyomon**, “Exploring Variational Graph Autoencoders for Distribution Grid Data Generation,” *Under review.*
+{{< publink href="https://arxiv.org/abs/2509.02469" >}}
+preprint
+{{< /publink >}}
+
 S. Eichhorn, A. Mohapatra, and **E. Okoyomon**, “PHIL Validation of Physics-Informed Symbolic Regression for Power System Voltage Prediction,” Accepted in *IEEE PES ISGT Europe 2025*. October 2025.
 
 T. Singh and **E. Okoyomon**, “A Lightweight and Modular Simulation Framework for Prototyping and Evaluating Electricity Trading Strategies Under Different Market-Clearing Mechanisms,” Accepted in *The 14th DACH+ Conference on Energy Informatics*. Sept 2025.
@@ -18,6 +23,7 @@ code
 data
 {{< /publink >}}
 
+___
 # 2024
 
 **E. Okoyomon** and C. Goebel, “[EnergyOS: Designing a Multi-Application EMS Platform](https://doi.org/10.1145/3632775.3661961),” in *Proceedings of the 15th ACM International Conference on Future and Sustainable Energy Systems*, in e-Energy ’24. New York, NY, USA: Association for Computing Machinery, May 2024, pp. 237–255.
@@ -28,7 +34,7 @@ code
 presentation
 {{< /publink >}}
 
-
+___
 # 2019
 
 **E. Okoyomon**, N. Samarin, P. Wijesekera, A. Elazari Bar On, N. Vallina-Rodriguez, I. Reyes, Á. Feal, and S. Egelman, “[On The Ridiculousness of Notice and Consent: Contradictions in App Privacy Policies](https://www.ieee-security.org/TC/SPW2019/ConPro/papers/okoyomon-conpro19.pdf),” presented at the Workshop on Technology and Consumer Protection (ConPro 2019), in conjunction with the 39th IEEE Symposium on Security and Privacy, May 2019.
