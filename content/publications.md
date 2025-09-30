@@ -6,10 +6,17 @@ title = 'Publications'
 
 # 2025
 
-S. Z. Abbas and **E. Okoyomon**, “Exploring Variational Graph Autoencoders for Distribution Grid Data Generation,” *Under review.*
+**E. Okoyomon**, A. Yaniv, and C. Goebel. “Physics-Informed Inductive Biases for Voltage Prediction in Distribution Grids,” *Under review.*
+{{< publink href="http://arxiv.org/abs/2509.25158" >}}
+preprint
+{{< /publink >}}
+
+S. Z. Abbas and **E. Okoyomon**, “Exploring Variational Graph Autoencoders for Distribution Grid Data Generation,” Accepted in *Tackling Climate Change with Machine Learning Workshop* at NeurIPS 2025. Dec 2025.
 {{< publink href="https://arxiv.org/abs/2509.02469" >}}
 preprint
 {{< /publink >}}
+
+**TBD**, “Rademacher Meets Colors: More Expressivity, but at What Cost?,” Accepted in *New Perspectives in Graph Machine Learning Workshop* at NeurIPS 2025. Dec 2025.
 
 S. Eichhorn, A. Mohapatra, and **E. Okoyomon**, “PHIL Validation of Physics-Informed Symbolic Regression for Power System Voltage Prediction,” Accepted in *IEEE PES ISGT Europe 2025*. October 2025.
 

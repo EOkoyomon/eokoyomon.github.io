@@ -36,7 +36,7 @@ metaDataFormat= "yaml"
   img_title = "Professional headshot of Ehimare Okoyomon."
   icon = "images/thumbnail.jpg"
   quote = "Researcher | Software Engineer"
-  description= "Hello! My name is Ehimare and I am a PhD student at the <a href=\"https://www.epe.ed.tum.de/emt/startseite/\">Professorship of Energy Management Technologies</a> at the Technical University of Munich. My research currently revolves around the development of: <br><br>(a) Data-driven methods for power grid analysis and control <br>(b) Scalable, decentralized energy systems and their applications <br><br>The goal of my research is to convert theory to practice while exploring this exciting intersection of Power Engineering and Computer Science. Ultimately, I aspire to help accelerate the path to high-quality energy systems that support the clean energy revolution."
+  description= "Hello! My name is Ehimare and I am a PhD student at the <a href=\"https://www.epe.ed.tum.de/emt/startseite/\">Professorship of Energy Management Technologies</a> at the Technical University of Munich. My research currently revolves around the development of: <br><br>(a) Machine learning methods for the optimization of electrical power systems <br>(b) Graph-Neural Networks and their generalization properties <br>(c) Scalable, decentralized energy systems and their applications <br><br>The goal of my research is to convert theory to practice while exploring this exciting intersection of Power Engineering and Computer Science. Ultimately, I aspire to help accelerate the path to high-quality energy systems that support the clean energy revolution."
   licenseUrl = ""
 
  # Social icons
