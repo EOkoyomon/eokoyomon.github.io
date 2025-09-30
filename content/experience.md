@@ -4,22 +4,6 @@ draft = false
 title = 'Experience'
 +++
 
-# Education
-
-{{< experience
-organization="University of California, Berkeley"
-img="images/berkeley_logo.svg"
-title="Master of Science"
-timeline="2018 - 2019"
-notes="<strong>Major:</strong> Electrical Engineering and Computer Sciences. <strong>Focus:</strong> Security & Privacy. <strong>Other coursework:</strong>  Machine Learning, Energy & Civilization, Data, Prediction & Law. <strong>Thesis:</strong> Contradictions in App Privacy Policies" >}}
-
-{{< experience
-organization="University of California, Berkeley"
-img="images/berkeley_logo.svg"
-title="Bachelor of Science"
-timeline="2015 - 2018"
-notes="<strong>Major:</strong> Electrical Engineering and Computer Sciences. <strong>Focus:</strong> Computer Engineering (Architecture, Networking, Operating systems). <strong>Other coursework:</strong> Digital Design, Bioengineering, Chemistry" >}}
-
 # Professional
 
 {{< experience
@@ -27,7 +11,7 @@ organization="Technical University of Munich"
 img="images/tum_logo.png"
 title="PhD Candidate"
 timeline="Mar 2023 - Present"
-notes="<a href=\"https://www.epe.ed.tum.de/emt/startseite/\">Professorship of Energy Management Technologies</a>. Research in data-driven methods for the analysis and control of power grids, and the development of scalable, decentralized energy systems. Thesis supervision, as well as support for lecture, lab and seminar courses" >}}
+notes="<a href=\"https://www.epe.ed.tum.de/emt/startseite/\">Professorship of Energy Management Technologies</a>. Research in data-driven methods for the analysis and control of power grids, and the development of scalable, decentralized energy systems. Thesis supervision; support for lecture, lab and seminar courses" >}}
 
 {{< experience
 organization="Google and Google.org"
@@ -56,3 +40,19 @@ img="images/berkeley_logo.svg"
 title="Graduate Student Instructor"
 timeline="Aug 2017 - Dec 2018"
 notes="Led labs and discussion sections, held office hours, and created and graded course materials. CS168 (Internet Architecture and Protocols) &#8212; under professors Scott Shenker and Sylvia Ratnasamy (Fall 2018). CS61C (Computer Architecture) &#8212; under Professors Randy Katz and Krste Asanovic (Fall 2017), Nicholas Weaver and John Wawrzynek (Spring 2018)" >}}
+
+# Education
+
+{{< experience
+organization="University of California, Berkeley"
+img="images/berkeley_logo.svg"
+title="Master of Science"
+timeline="2018 - 2019"
+notes="<strong>Major:</strong> Electrical Engineering and Computer Sciences. <strong>Focus:</strong> Security & Privacy. <strong>Other coursework:</strong>  Machine Learning, Energy & Civilization, Data, Prediction & Law. <strong>Thesis:</strong> Contradictions in App Privacy Policies" >}}
+
+{{< experience
+organization="University of California, Berkeley"
+img="images/berkeley_logo.svg"
+title="Bachelor of Science"
+timeline="2015 - 2018"
+notes="<strong>Major:</strong> Electrical Engineering and Computer Sciences. <strong>Focus:</strong> Computer Engineering (Architecture, Networking, Operating systems). <strong>Other coursework:</strong> Digital Design, Bioengineering, Chemistry" >}}
