@@ -16,7 +16,10 @@ S. Z. Abbas and **E. Okoyomon**, “Exploring Variational Graph Autoencoders for
 preprint
 {{< /publink >}}
 
-**TBD**, “Rademacher Meets Colors: More Expressivity, but at What Cost?,” Accepted in *New Perspectives in Graph Machine Learning Workshop* at NeurIPS 2025. Dec 2025.
+M. Carrasco*, C. Deberaldini Netto*, V. A. Martirosyan*, A. Mehrab*, **E. Okoyomon*** and C. Graziani, “Rademacher Meets Colors: More Expressivity, but at What Cost?,” Accepted in *New Perspectives in Graph Machine Learning Workshop* at NeurIPS 2025. Dec 2025.
+{{< publink href="https://arxiv.org/abs/2510.10101" >}}
+preprint
+{{< /publink >}}
 
 S. Eichhorn, A. Mohapatra, and **E. Okoyomon**, “PHIL Validation of Physics-Informed Symbolic Regression for Power System Voltage Prediction,” Accepted in *IEEE PES ISGT Europe 2025*. October 2025.
 
