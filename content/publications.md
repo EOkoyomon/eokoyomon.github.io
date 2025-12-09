@@ -7,23 +7,20 @@ title = 'Publications'
 # 2025
 
 **E. Okoyomon**, A. Yaniv, and C. Goebel. “Physics-Informed Inductive Biases for Voltage Prediction in Distribution Grids,” *Under review.*
-{{< publink href="http://arxiv.org/abs/2509.25158" >}}
+{{< publink href="https://arxiv.org/pdf/2509.25158" >}}
 preprint
 {{< /publink >}}
 
-S. Z. Abbas and **E. Okoyomon**, “Exploring Variational Graph Autoencoders for Distribution Grid Data Generation,” Accepted in *Tackling Climate Change with Machine Learning Workshop* at NeurIPS 2025. Dec 2025.
-{{< publink href="https://arxiv.org/abs/2509.02469" >}}
-preprint
+S. Z. Abbas and **E. Okoyomon**, “[Exploring Variational Graph Autoencoders for Distribution Grid Data Generation](https://arxiv.org/abs/2509.02469),” in *Tackling Climate Change with Machine Learning* at NeurIPS 2025. Dec 2025.
+{{< publink href="https://github.com/SyedZainAbbas/GridGEN" >}}
+code
 {{< /publink >}}
 
-M. Carrasco*, C. Deberaldini Netto*, V. A. Martirosyan*, A. Mehrab*, **E. Okoyomon*** and C. Graziani, “Rademacher Meets Colors: More Expressivity, but at What Cost?,” Accepted in *New Perspectives in Graph Machine Learning Workshop* at NeurIPS 2025. Dec 2025.
-{{< publink href="https://arxiv.org/abs/2510.10101" >}}
-preprint
-{{< /publink >}}
+M. Carrasco*, C. Deberaldini Netto*, V. A. Martirosyan*, A. Mehrab*, **E. Okoyomon*** and C. Graziani, “[Rademacher Meets Colors: More Expressivity, but at What Cost?](https://arxiv.org/abs/2510.10101),” in *New Perspectives in Graph Machine Learning* at NeurIPS 2025. Dec 2025.
 
-S. Eichhorn, A. Mohapatra, and **E. Okoyomon**, “PHIL Validation of Physics-Informed Symbolic Regression for Power System Voltage Prediction,” Accepted in *IEEE PES ISGT Europe 2025*. October 2025.
+S. Eichhorn, A. Mohapatra, and **E. Okoyomon**, “PHIL Validation of Physics-Informed Symbolic Regression for Power System Voltage Prediction,” in *IEEE PES ISGT Europe 2025*. October 2025.
 
-T. Singh and **E. Okoyomon**, “A Lightweight and Modular Simulation Framework for Prototyping and Evaluating Electricity Trading Strategies Under Different Market-Clearing Mechanisms,” Accepted in *The 14th DACH+ Conference on Energy Informatics*. Sept 2025.
+T. Singh and **E. Okoyomon**, “[A Lightweight and Modular Simulation Framework for Prototyping and Evaluating Electricity Trading Strategies Under Different Market-Clearing Mechanisms](https://energy.acm.org/eir/a-lightweight-and-modular-simulation-framework-for-prototyping-and-evaluating-electricity-trading-strategies-under-different-market-clearing-mechanisms/),” in *The 14th DACH+ Conference on Energy Informatics*, . Sept 2025.
 
 **E. Okoyomon** and C. Goebel, “[A Framework for Assessing the Generalizability of GNN-Based AC Power Flow Models](https://doi.org/10.1145/3679240.3734610),” in *Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems*, in E-Energy ’25. New York, NY, USA: Association for Computing Machinery, Jun. 2025, pp. 476–488.
 {{< publink href="https://gitlab.lrz.de/energy-management-technologies-public/engage" >}}
