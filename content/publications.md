@@ -18,7 +18,7 @@ code
 
 M. Carrasco*, C. Deberaldini Netto*, V. A. Martirosyan*, A. Mehrab*, **E. Okoyomon*** and C. Graziani, “[Rademacher Meets Colors: More Expressivity, but at What Cost?](https://arxiv.org/abs/2510.10101),” in *New Perspectives in Graph Machine Learning* at NeurIPS 2025. Dec 2025.
 
-S. Eichhorn, A. Mohapatra, and **E. Okoyomon**, “PHIL Validation of Physics-Informed Symbolic Regression for Power System Voltage Prediction,” in *IEEE PES ISGT Europe 2025*. October 2025.
+S. Eichhorn, A. Mohapatra, and **E. Okoyomon**, “[PHIL Validation of Physics-Informed Symbolic Regression for Power System Voltage Prediction](https://doi.org/10.1109/ISGTEurope64741.2025.11305655),” in *IEEE PES ISGT Europe 2025*. October 2025.
 
 T. Singh and **E. Okoyomon**, “[A Lightweight and Modular Simulation Framework for Prototyping and Evaluating Electricity Trading Strategies Under Different Market-Clearing Mechanisms](https://energy.acm.org/eir/a-lightweight-and-modular-simulation-framework-for-prototyping-and-evaluating-electricity-trading-strategies-under-different-market-clearing-mechanisms/),” in *The 14th DACH+ Conference on Energy Informatics*, . Sept 2025.
 
