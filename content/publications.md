@@ -6,7 +6,7 @@ title = 'Publications'
 
 # 2026
 
-**E. Okoyomon** and C. Goebel. [Tree-based sequence modeling for radial power flow analysis]. *Under review.*
+**E. Okoyomon** and C. Goebel. [Tree-based Sequence Modeling for Radial Power Flow Analysis]. *Under review.*
 
 # 2025
 
