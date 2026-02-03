@@ -4,12 +4,16 @@ draft = false
 title = 'Publications'
 +++
 
+# 2026
+
+**E. Okoyomon** and C. Goebel. [Tree-based sequence modeling for radial power flow analysis]. *Under review.*
+
 # 2025
 
-**E. Okoyomon**, A. Yaniv, and C. Goebel. “Physics-Informed Inductive Biases for Voltage Prediction in Distribution Grids,” *Under review.*
-{{< publink href="https://arxiv.org/pdf/2509.25158" >}}
+**E. Okoyomon**, A. Yaniv, and C. Goebel. [Physics-Informed Inductive Biases for Voltage Prediction in Distribution Grids]. *Under review.*
+<!-- {{< publink href="https://arxiv.org/pdf/2509.25158" >}}
 preprint
-{{< /publink >}}
+{{< /publink >}} -->
 
 S. Z. Abbas and **E. Okoyomon**, “[Exploring Variational Graph Autoencoders for Distribution Grid Data Generation](https://arxiv.org/abs/2509.02469),” in *Tackling Climate Change with Machine Learning* at NeurIPS 2025. Dec 2025.
 {{< publink href="https://github.com/SyedZainAbbas/GridGEN" >}}
