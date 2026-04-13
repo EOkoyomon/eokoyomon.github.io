@@ -235,7 +235,7 @@ blockquote {
     a {
         background: $primary-accent-color;
         background: linear-gradient(90deg, $primary-accent-color 0%, $secondary-accent-color 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$primary-accent-color",endColorstr="#0a8fa8",GradientType=1);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$primary-accent-color",endColorstr="$secondary-accent-color",GradientType=1);
         padding: 10px;
         color: $light-color;
         text-decoration: none;
@@ -248,7 +248,7 @@ blockquote {
         color: $primary-accent-color;
         text-decoration: none;
         border: 2px solid $primary-accent-color;
-        animation : blueToWhite 0.4s linear;
+        animation : blueToWhite 0.3s linear;
     }
 }
 
@@ -412,7 +412,20 @@ ul li p {
     0% {
         background: $primary-accent-color;
         background: linear-gradient(90deg, $primary-accent-color 0%, $secondary-accent-color 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$primary-accent-color",endColorstr="#0a8fa8",GradientType=1);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$primary-accent-color",endColorstr="$secondary-accent-color",GradientType=1);
+        color: $light-color;
+    }
+    100% {
+        background: $light-color;
+        color: $primary-accent-color;
+    }
+}
+
+@keyframes orangeToWhite {
+    0% {
+        background: $highlight-primary-accent-color;
+        background: linear-gradient(90deg, $highlight-primary-accent-color 0%, $highlight-secondary-accent-color 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$highlight-primary-accent-color",endColorstr="$highlight-secondary-accent-color",GradientType=1);
         color: $light-color;
     }
     100% {
@@ -423,26 +436,23 @@ ul li p {
 
 .publink {
     display: inline-block;
-    margin: 0 8px 16px 0;
     text-transform: uppercase;
-    font-size: 0.6em;
+    font-size: 0.7em;
     a:hover {
-        background: $primary-accent-color;
-        background: linear-gradient(90deg, $primary-accent-color 0%, $secondary-accent-color 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$primary-accent-color",endColorstr="#0a8fa8",GradientType=1);
-        padding: 4px 16px;
+        background: $highlight-primary-accent-color;
+        background: linear-gradient(90deg, $highlight-primary-accent-color 0%, $highlight-secondary-accent-color 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$highlight-primary-accent-color",endColorstr="$highlight-secondary-accent-color",GradientType=1);
+        padding: 4px 4px;
         color: $light-color;
+        border-radius: 4px;
         text-decoration: none;
-        border-radius: 3px;
     }
     a {
-        background: #fff;
-        padding: 4px 16px;
-        color: $primary-accent-color;
+        padding: 0px 4px;
+        color: $highlight-primary-accent-color;
         text-decoration: none;
-        border: 2px solid $primary-accent-color;
-        border-radius: 3px;
-        animation : blueToWhite 0.4s linear;
+        // animation : orangeToWhite 0.4s linear;
+        border-style: none;
     }
 }
 
